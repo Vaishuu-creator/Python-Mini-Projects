@@ -4,7 +4,7 @@ A simple and interactive **Number Guessing Game** built using **Python**, where 
 
 This beginner-friendly project demonstrates user input handling, random number generation, and basic game logic — making it ideal for Python learners.
 
----
+--- 
 
 ## Project Overview
 
